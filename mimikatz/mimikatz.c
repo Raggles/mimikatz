@@ -73,12 +73,8 @@ void mimikatz_begin()
 	SetConsoleCtrlHandler(HandlerRoutine, TRUE);
 #endif
 	kprintf(L"\n"
-		L"  .#####.   " MIMIKATZ_FULL L"\n"
-		L" .## ^ ##.  " MIMIKATZ_SECOND L" - (oe.eo) ** Kitten Edition **\n"
-		L" ## / \\ ##  /*** Benjamin DELPY `gentilkiwi` ( benjamin@gentilkiwi.com )\n"
-		L" ## \\ / ##       > http://blog.gentilkiwi.com/mimikatz\n"
-		L" '## v ##'       Vincent LE TOUX             ( vincent.letoux@gmail.com )\n"
-		L"  '#####'        > http://pingcastle.com / http://mysmartlogon.com   ***/\n");
+		L"memecow\n"
+		);
 	mimikatz_initOrClean(TRUE);
 }
 

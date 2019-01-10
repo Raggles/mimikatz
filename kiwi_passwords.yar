@@ -6,7 +6,7 @@
 rule mimikatz
 {
 	meta:
-		description		= "mimikatz"
+		description		= "memecow"
 		author			= "Benjamin DELPY (gentilkiwi)"
 		tool_author		= "Benjamin DELPY (gentilkiwi)"
 

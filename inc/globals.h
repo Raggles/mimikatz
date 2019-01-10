@@ -29,7 +29,7 @@
 	#define MIMIKATZ_ARCH L"x86"
 #endif
 
-#define MIMIKATZ				L"mimikatz"
+#define MIMIKATZ				L"memecow"
 #define MIMIKATZ_VERSION		L"2.1.1"
 #define MIMIKATZ_CODENAME		L"A La Vie, A L\'Amour"
 #define MIMIKATZ_FULL			MIMIKATZ L" " MIMIKATZ_VERSION L" (" MIMIKATZ_ARCH L") built on " TEXT(__DATE__) L" " TEXT(__TIME__)
